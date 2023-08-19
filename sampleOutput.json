@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "India Today Science Desk",
+            "title": "Russian Luna-25 sends first picture of Moon, shows region permanently hidden from Earth - India Today",
+            "description": "The far side of the moon, also known as the \"dark side,\" is the hemisphere of the moon that is permanently hidden from Earth's view due to synchronous rotation.",
+            "url": "https://www.indiatoday.in/science/chandrayaan-3/story/russian-luna-25-sends-first-picture-of-moon-shows-region-hidden-from-earth-2422936-2023-08-18",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/luna-25-moon-183406-16x9.jpg?VersionId=UoI_1QBttmdB_zUxIKCzipO8zTFmq4C5",
+            "publishedAt": "2023-08-18T05:44:30Z",
+            "content": "Russia's Luna-25 spacecraft has sent back its first images of the moon from lunar orbit. The images feature the south polar crater Zeeman, located on the far side of the moon. \r\nThe far side of the m… [+1754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Aman Gupta",
+            "title": "Chandrayaan-3: 10 frequently asked questions about latest ISRO lunar mission | Mint - Mint",
+            "description": "Chandrayaan-3's 'Vikram' lander successfully separates from propulsion module. Soft landing on moon's surface scheduled for Wednesday.",
+            "url": "https://www.livemint.com/science/news/chandrayaan-3-10-frequently-asked-questions-about-latest-isro-lunar-mission-11692324952317.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/18/600x338/Chandrayaan-3-is-expected-to-land-on-the-lunar-sur_1692327033122_1692327060704.jpg",
+            "publishedAt": "2023-08-18T03:16:34Z",
+            "content": "In a major update for Chandrayaan-3, the Vikram lander module of the spacecraft successfully separated from the propulsion module on Thursday, ISRO informed via X (formerly Twitter)Here are the top 1… [+3765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT News Desk",
+            "title": "Chandrayaan-3 LIVE updates: Lander Vikram to undergo ‘deboosting’ from today - Hindustan Times",
+            "description": "Chandrayaan-3 LIVE updates: Lander Module was seperated from Propulsion module on Thursday making it now ready for historic soft landing on lunar south pole.",
+            "url": "https://www.hindustantimes.com/technology/chandrayaan3-news-live-status-updates-18-august-2023-vikram-lander-seperated-latest-isro-moon-mission-russia-luna25-101692320969649.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/18/1600x900/Chandrayaan-3-consists-of-an-indigenous-lander-mod_1692303859228_1692321414657.jpg",
+            "publishedAt": "2023-08-18T01:47:19Z",
+            "content": "Chandrayaan-3 LIVE updates:India's third lunar mission on Thursday achieved another major milestone in its journey towards a soft landing on the Moon's south pole as the Lander Module, consisting of … [+1989 chars]"
+        }
+    ]
+}
