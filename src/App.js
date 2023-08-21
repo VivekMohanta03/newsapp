@@ -9,49 +9,49 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router basename="/newsapp">
+        <Router>
           <Navbar />
           <Routes>
             <Route
               exact
-              path="/"
+              path="/newsapp/"
               element={<News key="general" pageSize={12} country="in" category="general" />}
             ></Route>
             <Route
               exact
-              path="/business"
+              path="/newsapp/business"
               element={<News key="business" pageSize={12} country="in" category="business" />}
             ></Route>
             <Route
               exact
-              path="/entertainment"
+              path="/newsapp/entertainment"
               element={
                 <News key="entertainment" pageSize={12} country="in" category="entertainment" />
               }
             ></Route>
             <Route
               exact
-              path="/general"
+              path="/newsapp/general"
               element={<News key="general" pageSize={12} country="in" category="general" />}
             ></Route>
             <Route
               exact
-              path="/health"
+              path="/newsapp/health"
               element={<News key="health" pageSize={12} country="in" category="health" />}
             ></Route>
             <Route
               exact
-              path="/science"
+              path="/newsapp/science"
               element={<News key="science" pageSize={12} country="in" category="science" />}
             ></Route>
             <Route
               exact
-              path="/sports"
+              path="/newsapp/sports"
               element={<News key="sports" pageSize={12} country="in" category="sports" />}
             ></Route>
             <Route
               exact
-              path="/technology"
+              path="/newsapp/technology"
               element={<News key="technology" pageSize={12} country="in" category="technology" />}
             ></Route>
           </Routes>
