@@ -28,7 +28,7 @@ export class News extends Component {
       page: 1,
       totalResults: 0
     };
-    document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsMonkey`;
+    document.title = `${this.capitalizeFirstLetter(this.props.category)} - News Nest`;
   }
 
   async updateNews() {
@@ -70,7 +70,7 @@ export class News extends Component {
           dataLength={this.state.articles.length}
           next={this.fetchMoreData}
           hasMore={this.state.articles.length !== this.totalResults}
-          loading={<Spinner />}
+          loading=<Spinner />
         />
         <div className="container">
           <div className="row">
